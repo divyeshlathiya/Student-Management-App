@@ -52,7 +52,5 @@ The app uses the following dependencies:
 - `shared_preferences`
 - `flutter_native_splash` (for splash screen customization)
 
-#### Example `pubspec.yaml` snippet:
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
